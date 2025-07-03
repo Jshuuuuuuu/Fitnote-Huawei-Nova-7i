@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/d2bf8f6f-e696-4f52-8dda-6035b8642013)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2bf8f6f-e696-4f52-8dda-6035b8642013" alt="FitNote" />
+</p>
 
 # FitNote - Your Personal Fitness Companion
 
