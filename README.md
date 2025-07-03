@@ -1,1 +1,3 @@
-# Fitnote-Huawei-Nova-7i
+FitNote - Your Personal Fitness Companion
+
+Struggling with low motivation or staying consistent with your workouts? FitNote is here to help you stay on track with your fitness journey. This mobile app allows you to create personalized workout plans, track progress, and schedule workouts, ensuring you stay motivated and focused on achieving your goals. FitNote enables you to log sets, reps, and weights, access exercise guidance for proper form, and receive reminders to never miss a workout. Whether you're looking to build strength, lose weight, or improve endurance, FitNote helps you stay consistent and overcome obstacles, all while celebrating your achievements along the way.
