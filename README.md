@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d2bf8f6f-e696-4f52-8dda-6035b8642013)
+
 # FitNote - Your Personal Fitness Companion
 
 **Struggling with low motivation or staying consistent with your workouts? FitNote is here to help you stay on track with your fitness journey!**
